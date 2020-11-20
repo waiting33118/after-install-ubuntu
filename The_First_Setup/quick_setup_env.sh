@@ -21,3 +21,9 @@ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length
 
 # set click dock behavior to minimize
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
+
+# set calendar theme mode
+gsettings set org.gnome.calendar follow-night-light true
+
+# install nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.0/install.sh | bash
