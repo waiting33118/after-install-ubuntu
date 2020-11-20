@@ -11,7 +11,7 @@ sudo apt update && sudo apt-get update
 sudo apt upgrade -y
 
 # remove unused dependencies
-sudo apt autoremove
+sudo apt autoremove -y
 
 # clean partial packages
 sudo apt autoclean
