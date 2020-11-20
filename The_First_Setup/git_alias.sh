@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # set alias
+git config --global user.email "waiting33118@gmail.com"
+git config --global user.name "Tony Chung"
 git config --global alias.cm "commit -m"
 git config --global alias.st status
 git config --global alias.ps push
