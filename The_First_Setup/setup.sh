@@ -10,7 +10,7 @@
 sudo cp -p ./../Daily/apt_update.sh ~/apt_update.sh
 
 # 4. create workspace directory in home directory
-mkdir ~/myworkspce
+mkdir ~/myWorkSpace
 
 # 5. set git alias
 ./git_alias.sh
