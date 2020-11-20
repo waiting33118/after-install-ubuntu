@@ -20,7 +20,7 @@ gnome-tweaks | tweak gnome-desktop util |
 iftop        | monitor net pacakge |
 neofetch     | ubuntu version info |
 net-tools    | network util |
-nvm          | node version manager |
+nvm          | node version manager ||https://github.com/nvm-sh/nvm|
 python3-pip  | language package |
 python3.8    | language package |
 synaptic     | package manager |
@@ -35,7 +35,22 @@ vlc          | video player |
 Package name | description | link |
 -------------|-------------|------|
 gitkraken    | version control GUI | https://www.gitkraken.com/|
-google-chrome| browser | https://www.google.com/chrome/|
+google-chrome| browser     | https://www.google.com/chrome/|
 mysql        | database    | https://dev.mysql.com/downloads/repo/apt/ |
 vscode       | code editor | https://code.visualstudio.com/|
+postman      | API tester  | https://www.postman.com/downloads/ |
+
+## Need to setup manually
+
+1. tweaks scale to 1.25
+2. set font size to 11.5
+3. remove unused app in snap store
+4. set vscode env sync
+5. setup nvm: please run `./nvm_setup.sh` 
+6. postman change owner & group
+```bash
+sudo chown -hR [username] Postman/
+sudo chgrp -hR [username] Postman/
+```
+
 
