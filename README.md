@@ -5,7 +5,7 @@
 ## Download
 
 ```bash
-  git clone 
+  git clone https://github.com/waiting33118/after-install-ubuntu.git
 ```
 
 ## List of Apt packages
