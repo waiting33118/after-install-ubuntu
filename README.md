@@ -52,5 +52,6 @@ postman      | API tester  | https://www.postman.com/downloads/ |
 sudo chown -hR [username] Postman/
 sudo chgrp -hR [username] Postman/
 ```
+7. connecting to github with ssh [Docs link](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 
