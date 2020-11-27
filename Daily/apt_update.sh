@@ -14,7 +14,7 @@ sudo apt upgrade -y
 sudo apt autoremove -y
 
 # clean partial packages
-sudo apt autoclean
+sudo apt autoclean -y
 
 # cleanup apt cache
 sudo apt clean
