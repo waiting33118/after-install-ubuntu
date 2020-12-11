@@ -43,15 +43,11 @@ postman      | API tester  | https://www.postman.com/downloads/ |
 
 ## Need to setup manually
 
-1. tweaks scale to 1.25
-2. set font size to 11.5
-3. remove unused app in snap store
-4. set vscode env sync
-5. setup nvm: please run `./nvm_setup.sh` 
-6. postman change owner & group
-```bash
-sudo chown -R [username:username] Postman/
-```
-7. connecting to github with ssh [Docs link](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+1. remove unused app in snap store
+1. set vscode env sync
+1. setup nvm: please run `./nvm_setup.sh` 
+1. postman change owner & group 
+`sudo chown -R [username:username] Postman/`
+1. connecting to github with ssh [Docs link](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 
