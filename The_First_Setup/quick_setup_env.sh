@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # install packages
-sudo apt install ubuntu-restricted-extras arp-scan curl \
+sudo apt -y install ubuntu-restricted-extras arp-scan curl \
 dconf-editor git gnome-tweaks iftop neofetch net-tools \
-python3.8 python3-pip synaptic traceroute vim vlc -y
+python3.8 python3-pip synaptic traceroute vim vlc simplescreenrecorder \
 
 # install packages for laptop
 # comment out if you don't need it
