@@ -22,6 +22,12 @@ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length
 # set click dock behavior to minimize
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 
+# set font size
+gsettings set org.gnome.desktop.interface font-name 'Ubuntu 11.5'
+
+# set screen scale
+gsettings set org.gnome.desktop.interface text-scaling-factor 1.2500000000000002
+
 # set calendar theme mode
 gsettings set org.gnome.calendar follow-night-light true
 
