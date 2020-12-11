@@ -8,6 +8,7 @@
 
 # 3. copy daily update script to /home
 sudo cp -p ./../Daily/apt_update.sh ~/apt_update.sh
+sudo cp -p ./../Daily/beforeShutdown.sh ~/beforeShutdown.sh
 
 # 4. create workspace directory in home directory
 mkdir ~/myWorkSpace
