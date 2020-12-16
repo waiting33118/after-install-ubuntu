@@ -30,6 +30,7 @@ traceroute   | trace route |
 vim          | command line editor |
 vlc          | video player |
 simplescreenrecorder| screen recorder |
+ssh          | ssh connect server |
 
 ## List of Applications
 
