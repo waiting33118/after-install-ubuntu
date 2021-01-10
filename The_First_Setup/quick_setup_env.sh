@@ -4,7 +4,7 @@
 sudo apt -y install ubuntu-restricted-extras arp-scan curl \
 dconf-editor git gnome-tweaks iftop neofetch net-tools \
 python3.8 python3-pip synaptic traceroute vim vlc simplescreenrecorder \
-ssh
+ssh mlocate htop
 
 # install packages for laptop
 # comment out if you don't need it
