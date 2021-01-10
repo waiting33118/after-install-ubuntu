@@ -31,6 +31,8 @@ vim          | command line editor |
 vlc          | video player |
 simplescreenrecorder| screen recorder |
 ssh          | ssh connect server |
+mlocate      | file finder |
+htop         | GUI terminal manager |
 
 ## List of Applications
 
