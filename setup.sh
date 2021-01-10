@@ -15,3 +15,6 @@ mkdir ~/myWorkSpace
 
 # 5. set git alias
 ./The_First_Setup/git_alias.sh
+
+# 6. install node.js & packages
+./The_First_Setup/nvm_setup.sh
