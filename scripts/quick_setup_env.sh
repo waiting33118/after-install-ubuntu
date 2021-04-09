@@ -13,7 +13,7 @@ dconf-editor \
 ffmpeg \
 git \
 gnome-tweaks \
-htop
+htop \
 iftop \
 mlocate \
 neofetch \
