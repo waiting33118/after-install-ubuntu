@@ -11,10 +11,13 @@ sudo apt update && sudo apt-get update
 sudo apt upgrade -y
 
 # remove unused dependencies
-sudo apt autoremove -y
+sudo apt autoremove --purge -y
 
 # clean partial packages
 sudo apt autoclean -y
 
 # cleanup apt cache
 sudo apt clean
+
+# autoclean
+sudo apt autoclean
